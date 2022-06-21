@@ -1,0 +1,19 @@
+{
+    "name": "com.6uogames.sdk",
+    "version": "1.0.0",
+    "displayName": "6uo SDK",
+    "description": "A project allows developer to integrate 6uo services into the projject",
+    "unity": "2020.3",
+    "dependencies": {
+
+    },
+    "keywords": [
+        "library",
+        "utility",
+        "strings"
+    ],
+    "author": {
+        "name": "6uo Games",
+        "email": "develop@6uogames.com"
+    }
+}
